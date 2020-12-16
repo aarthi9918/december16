@@ -3,3 +3,6 @@ Core Java
 MySQL
 Spring Tools
 Database
+
+JSP
+Servlets
